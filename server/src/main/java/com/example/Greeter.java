@@ -12,8 +12,8 @@ public class Greeter {
 
   }
 
-  //TODO: Add javadoc comment
-  public String greet(String final someone) {
+  //Add javadoc comment
+  public String greet(String someone) {
     return String.format("Hello everyone in the, %s!", someone);
   }
 }
